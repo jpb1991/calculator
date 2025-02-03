@@ -14,9 +14,9 @@ To get started with the FNBubbles420 Org Calculator, you'll need Python installe
 
 ### Prerequisites
 
-- Python 3.11 Series
-- numpy
-- scipy
+- `Python 3.11 Series`
+- `numpy`
+- `scipy`
 
 ### Steps
 
