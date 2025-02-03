@@ -1,0 +1,36 @@
+# Ignore Python environment folder
+.venv/
+
+# Compiled Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore executable files
+*.exe
+
+# Ignore icon files
+*.ico
+
+# System-specific ignore
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Backup and log files
+*.log
+*.bak
+*.tmp
+
+# Ignore specific files that are non-essential or contain sensitive information
+notes.txt
+
+# Node modules
+node_modules/
+
+# Ignore build outputs
+dist/
+build/
+*.egg-info/
