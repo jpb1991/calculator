@@ -20,11 +20,15 @@ To get started with the FNBubbles420 Org Calculator, you'll need Python installe
 
 ### Steps
 
-1. Clone the repository to your local machine:
+1. Click the Green Button Upper Right Hand Corner:
+- Download `ZipFile` to desktop.
+- `Extract Zipfile` to desktop.
+- Open up the Folder and make sure to read the `readme.md`
+- install `python`
+- double click the `python3119.bat` and press `Y` to install.
+- once done, `python --version`
+- to see if it got installed correctly.
 
-```
-git clone https://github.com/fnbubbles420-org/calculator
-```
 
 2. Navigate to the cloned directory:
 
