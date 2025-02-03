@@ -57,7 +57,7 @@ python calculator.py
 
 
 # Acknowledgement
-- [videogamefan](https://github.com/jpb1991)
-- 
+- **[videogamefan](https://github.com/jpb1991)**
+
 ---
 ---
