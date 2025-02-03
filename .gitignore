@@ -39,3 +39,4 @@ build/
 *.bat
 
 # Ignore Img folder
+*.ico
