@@ -1,6 +1,6 @@
 # FNBubbles420 Org Calculator 🧮
 
-Welcome to the FNBubbles420 Org Calculator, a feature-rich, GUI-based calculator application designed to perform a wide range of mathematical operations. Built with Python and Tkinter under the guidance of Jason, your friendly assistant, this tool offers an intuitive interface for both simple arithmetic and complex functions.
+Welcome to the FNBubbles420 Org Calculator, a feature-rich, GUI-based calculator application designed to perform a wide range of mathematical operations. Built with Python and Tkinter. This tool offers an intuitive interface for both simple arithmetic and complex functions.
 
 ## Features 🌟
 
