@@ -37,3 +37,5 @@ build/
 
 # Ignore Batchfiles
 *.bat
+
+# Ignore Img folder
